@@ -1,0 +1,22 @@
+#card {
+  position: relative;
+  border: solid #000000 2px;
+  border-radius: 10px;
+  box-shadow: 4px 6px rgba(203, 198, 205, 0.3);
+}
+
+#card:hover {
+  background-color: rgba(213, 208, 215, 0.3);
+  box-shadow: none;
+}
+
+#card img {
+  width: 24em;
+  height: auto;
+}
+
+#toggleBtn.isOpen {
+  position: absolute;
+  top: 2em;
+  left: 2em;
+}

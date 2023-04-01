@@ -1,0 +1,13 @@
+select {
+  width: 50%;
+  height: 40px;
+  padding: 12px;
+}
+
+stateItem {
+  background-color: rgba(213, 208, 215, 0.3);
+  color: whitesmoke;
+  border: solid black 2px;
+  border-radius: 15px;
+  width: 50%;
+}

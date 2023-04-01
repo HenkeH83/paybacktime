@@ -1,0 +1,49 @@
+#root {
+  width: 75vw;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  border-radius: 15px;
+}
+
+/*  UTILITY CLASSES */ 
+.p1 {
+  padding: 1em;
+}
+
+.p2 {
+  padding: 2em;
+}
+
+.ml1 {
+  margin-left: 1em;
+}
+
+.mb1 {
+  margin-bottom: 1em;
+}
+
+.mb2 {
+  margin-bottom: 2em;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.align-center {
+  align-items: center;
+}
